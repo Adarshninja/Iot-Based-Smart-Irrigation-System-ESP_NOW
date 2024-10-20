@@ -1,3 +1,5 @@
+// this is the code for Slave so always make sure to paste this code for Slave.
+
 #include <ESP8266WiFi.h>
 #include <espnow.h>
 #include <DHT.h>
